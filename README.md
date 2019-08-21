@@ -5,6 +5,7 @@
 - 환경오염의 심각성을 알리고 그에 대한 대책 제시
 > 개발환경: Unity 5.0 이상 & 
 > 개발언어: C#
+<div> <img width=650 src="https://user-images.githubusercontent.com/38849965/63435630-3b2aa380-c462-11e9-89c5-66cbeacc6c41.png"> </div>
 
 # 
 ### Strange phenomenon
